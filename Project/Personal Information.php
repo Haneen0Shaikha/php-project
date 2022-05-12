@@ -60,8 +60,6 @@ $activePage = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/"
       <div class="detail">
         <p class="col-25">Birth Date:</p>
         <p class="col-75">06<sup>th</sup>, June 2001 </p>
-        
-
       </div>
 
       <div class="detail">
