@@ -49,7 +49,7 @@ $activePage = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/"
     <div class="left">
       <div class="detail">
         <p class="col-25">Full Name:</p>
-        <p class="col-75">Haneen Shaikha , Basmala Shamalkh</p>
+        <p class="col-75">Haneen Shaikha</p>
       </div>
 
       <div class="detail">
@@ -59,7 +59,7 @@ $activePage = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/"
 
       <div class="detail">
         <p class="col-25">Birth Date:</p>
-        <p class="col-75">06<sup>th</sup>, June & 25<sup>th</sup>,July 2001 </p>
+        <p class="col-75">06<sup>th</sup>, June 2001 </p>
         
 
       </div>
